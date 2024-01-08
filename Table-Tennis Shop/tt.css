@@ -1,0 +1,26 @@
+.products {
+    font-size: 28px;
+    text-align:center;    
+}
+
+.borderconf{
+    background-color: rgb(83, 192, 83);
+    border-top: 2px solid blue; /* Üst sınır: 2 piksel kalınlığında, kırmızı renkte sınır */
+    border-bottom: 2px solid blue; /* Alt sınır: 2 piksel kalınlığında, kesikli mavi renkte sınır */
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;font-size:24px;
+    
+    
+}
+
+.borderconf a{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.borderconf a:hover{
+    color:red   ;
+    text-decoration: none;
+}
